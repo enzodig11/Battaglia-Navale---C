@@ -1,8 +1,8 @@
-# 🚢 Battaglia Navale – Implementazione in C
+# Battaglia Navale – Implementazione in C
 
-## 📌 Descrizione del Progetto
+## Descrizione del Progetto
 
-Questo progetto rappresenta un'implementazione del gioco della **Battaglia Navale** sviluppata in linguaggio C.
+Questo progetto rappresenta un'implementazione del gioco della "Battaglia Navale" sviluppata in linguaggio C.
 
 L'applicazione gestisce completamente la logica del gioco tramite interfaccia a riga di comando (CLI), includendo:
 
@@ -16,7 +16,7 @@ Il progetto è stato sviluppato con approccio procedurale, organizzando la logic
 
 ---
 
-## 🛠 Tecnologie Utilizzate
+## Tecnologie Utilizzate
 
 - Linguaggio C
 - Programmazione procedurale
@@ -25,38 +25,21 @@ Il progetto è stato sviluppato con approccio procedurale, organizzando la logic
 
 ---
 
-## 🏗 Struttura del Progetto
+## Struttura del Progetto
 
 ```text
 Battaglia-Navale---C/
 ├── src/
 │   └── main.c
 ├── README.md
-└── Makefile   (opzionale)
 ```
 
 - `src/` → contiene il codice sorgente principale  
-- `main.c` → punto di ingresso del programma  
+- `BATTAGLIA NAVALE Digioia Vincenzo.c` → punto di ingresso del programma  
 
 ---
 
-## ▶️ Compilazione ed Esecuzione
-
-### Compilazione con GCC
-
-```bash
-gcc -Wall -Wextra -O2 src/main.c -o battleship
-```
-
-### Esecuzione
-
-```bash
-./battleship
-```
-
----
-
-## 🎮 Funzionalità Principali
+## Funzionalità Principali
 
 - Creazione e gestione di una griglia bidimensionale
 - Inserimento coordinate per attacco e validazione input
@@ -66,19 +49,7 @@ gcc -Wall -Wextra -O2 src/main.c -o battleship
 
 ---
 
-## 🎯 Competenze Dimostrate
-
-Questo progetto evidenzia competenze in:
-
-- Modellazione logica di un sistema a stati
-- Gestione di strutture dati (array 2D)
-- Validazione input utente
-- Organizzazione modulare del codice
-- Problem solving algoritmico
-
----
-
-## 👨‍💻 Autore
+## Autore
 
 Vincenzo Digioia  
 Junior Software Engineer  
