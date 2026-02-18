@@ -30,7 +30,7 @@ Il progetto è stato sviluppato con approccio procedurale, organizzando la logic
 ```text
 Battaglia-Navale---C/
 ├── src/
-│   └── main.c
+│   └── BATTAGLIA NAVALE Digioia Vincenzo.c
 ├── README.md
 ```
 
